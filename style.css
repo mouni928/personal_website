@@ -1,0 +1,53 @@
+body{
+    background-color:lavenderblush;
+    font-family: 'Courgette', cursive;
+    margin: 0;
+}
+.total{
+    text-align: center;
+    list-style-position: inside;
+    
+    /* margin: auto; */
+}
+.profile{
+    margin: 15px auto 5px;
+    width : 15%;
+}
+hr{
+    height: 4px;
+    border-width: 5;
+    /* color: green; */
+    background-color: green;
+    /* margin-left: 10 ; */
+    width: 35%;
+    /* width:100%;height:10px;background:#000 */
+}
+.first{
+    color: #551A8B;
+}
+.second{
+    color: palevioletred;
+}
+.pic{
+    padding: 0px;
+    /* margin-bottom: 10px; */  
+}
+.details{
+    text-align: center;
+}
+h1{
+    color: violet;
+}
+
+a{
+    margin: 3px ;
+    text-decoration: none;
+}
+
+.birthday{
+    color:#551A8B;
+}
+
+.foot{
+    padding: 80px 0 20px;
+}
